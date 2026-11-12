@@ -1,0 +1,29 @@
+{
+  "synthetic_example": true,
+  "description": "结构示例，无真实论文图或实验结果；正式任务必须替换为核验过的资料。",
+  "slides": [
+    {
+      "page": 1,
+      "slide_id": "s001",
+      "title": "示例：细胞组成变化与细胞内表达变化",
+      "visual_kind": "teaching_schematic",
+      "question": "总组织表达差异可能来自什么？",
+      "segments": [
+        {
+          "purpose": "概念与读图",
+          "spoken_text": "这是一张教学示意图，没有真实实验数据。左侧表示两种细胞的比例改变，右侧表示细胞比例相同但某类细胞内的表达改变。这两种情况都可能影响组织总体的表达读数。要区分它们，需要同时保留样本身份与细胞类型信息，并在适当的独立样本层面比较。",
+          "teacher_cue": "指左右两种情况；说明图为教学示意。",
+          "figure_ids": ["synthetic_composition_schematic"]
+        }
+      ],
+      "figures": [
+        {
+          "id": "synthetic_composition_schematic",
+          "spoken_explanation": "左为细胞比例改变，右为同类细胞内表达改变；均为示意而非实验观察。",
+          "explained_in_segments": true
+        }
+      ],
+      "blue_comment": "可选教师提示：要求区分细胞数与独立样本数。"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+dist/
+audit/
+output/
+*.pptx
+*.docx
+*.pdf
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,4 @@
+interface:
+  display_name: "文献汇报与教学PPT"
+  short_description: "以真实生物学问题串联论文图、教学课件、详细讲稿与逐页视觉检查"
+  default_prompt: "使用 $biomedical-literature-teaching-ppt，根据我的论文或现有课件制作文献汇报或教学PPT，并配逐页讲稿；按要求提供教师批注或纯讲稿。"
